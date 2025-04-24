@@ -1,5 +1,16 @@
 [
   {
+    "eventName": "AI The Future of Code",
+    "eventDescription": "Learn how AI is changing the programming world",
+    "eventDate": "2025-04-27",
+    "eventTime": "9:00",
+    "eventVenue": "CITU Office, Guindy, Chennai.",
+    "eventLink": "Free & Open For All",
+    "location": "Chennai",
+    "communityName": "Union of IT & ITes Employees",
+    "communityLogo": "https://uniteit.org/wp-content/uploads/2017/12/cropped-photo6161123667375925217-32x32.jpg"
+  },
+  {
     "eventName": "Django India Chennai meetup",
     "eventDescription": "In-person meetup dedicated to Django, Python, and the broader world of open source! ",
     "eventDate": "2025-04-26",
